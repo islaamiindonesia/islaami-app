@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Islaami</string>
+    <string name="prayer_notification_label">Saat Anda mengaktifkan pengaturan ini, maka semua volume waktu shalat akan mengikuti pengaturan volume notifikasi pada HP Anda</string>
+    <string name="prayer_time_ringtone">Nada Dering Waktu $1s%</string>
+</resources>
